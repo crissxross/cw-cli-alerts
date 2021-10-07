@@ -1,1 +1,3 @@
-<!-- Check out this live node module at this link [cli-alerts](https://github.com/AhmadAwais/cli-alerts) -->
+# CLI Alerts
+
+CLI tool built during [Learn & Build NodeCLI](https://NodeCLI.com) course.
